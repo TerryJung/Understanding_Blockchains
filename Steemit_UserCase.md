@@ -19,12 +19,17 @@
 
 참고 URL 
 https://steemd.com/@traveler.terry (제 계정)
+
 https://github.com/taeminlee/blockchain.eos/blob/master/20170901%20steem%20white%20paper.md - 스팀백서 
 
 https://steemit.com/kr/@mechuriya/1 - 스팀잇은 어떻게 혁신을 이뤄냈는가, 그 세계관에 대한 심층 분석 - 1. 스팀잇의 3원칙
+
 https://steemit.com/kr/@mechuriya/2 - 스팀잇은 어떻게 혁신을 이뤄냈는가, 그 세계관에 대한 심층 분석 - 2. 스팀의 문제 해결방식
+
 https://steemit.com/kr/@mechuriya/3-3   -스팀잇은 어떻게 혁신을 이뤄냈는가, 그 세계관에 대한 심층 분석 - 3. 스팀의 3종 화폐(스팀, 스팀파워, 스팀달러)
+
 https://steemit.com/kr/@mechuriya/4-steem-token-economy  - 스팀잇은 어떻게 혁신을 이뤄냈는가, 그 세계관에 대한 심층 분석 – 4. 스팀의 토큰 이코노미 구조도(Steem Token Economy)
+
 https://steemit.com/kr/@mechuriya/5  - 스팀잇은 어떻게 혁신을 이뤄냈는가, 그 세계관에 대한 심층 분석 - 5. 스팀의 화폐발행 정책
 
 
