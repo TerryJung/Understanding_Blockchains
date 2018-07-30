@@ -4,3 +4,5 @@
 
 
 [개인 이더리움 지갑 만드는 법](https://github.com/TerryJung/Understanding_Blockchains/blob/master/HowToMake_EtherWallet.md)
+[유저입장에서 이해한 스팀잇 동작](https://github.com/TerryJung/Understanding_Blockchains/blob/master/Steemit_UserCase.md)
+[개발자입장에서 이해한 스팀잇 동작](https://github.com/TerryJung/Understanding_Blockchains/blob/master/Steemit_DeveloperCase.md)
