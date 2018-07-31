@@ -6,8 +6,6 @@
 
 -> Steem과 Steemit이 같은게 아니다 보니 Steemit은 Steem위에서 토큰이코노미가 제대로 돌아가는 Dapp 의 MVP임.
 
--> 그래서 이미지 서버가 중앙화 된것은 크게 문제가 될것같진 않습니다. 
-
 3. 모든 데이터는 Steemd.com 같은 스팀 Explorer 에서 조회 가능 
 
 4. 스팀 Dapp 개발은 아주 쉬움. 노드같은것을 건드릴 필요가 없으며, 이더리움처럼 가스 Wei를 낼 필요도 없고, 그저 Abstact화가 잘된 API로 (Steem-Python, Steem-js 등) 컨트롤만 해도 가능
