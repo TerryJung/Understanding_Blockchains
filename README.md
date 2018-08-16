@@ -9,6 +9,7 @@
 
 [Smart Contract의 이해](https://github.com/TerryJung/Understanding_Blockchains/blob/master/What_is_the_SmartContract.md) 
 ## 3세대 블록체인 (ex: 이오스, 스팀)
+### 
 [유저입장에서 이해한 스팀잇 동작](https://github.com/TerryJung/Understanding_Blockchains/blob/master/Steemit_UserCase.md)
 
 [개발자입장에서 이해한 스팀잇 동작](https://github.com/TerryJung/Understanding_Blockchains/blob/master/Steemit_DeveloperCase.md)
